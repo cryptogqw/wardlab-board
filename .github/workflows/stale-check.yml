@@ -1,0 +1,28 @@
+name: stale-check
+run-name: 停更检查
+on:
+  schedule:
+    - cron: "23 * * * *"        # 每小时一次；GitHub 的定时任务可能晚几分钟到更久
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "试发一次提醒（让这次运行失败，确认能收到通知）"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: stale-check
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: 检查 wardlab.io 是否按时更新
+        env:
+          TEST_ALERT: ${{ inputs.test_alert || false }}
+        run: python3 .github/scripts/stale_check.py
