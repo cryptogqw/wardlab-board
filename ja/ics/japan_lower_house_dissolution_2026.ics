@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 衆議院の年内解散
+BEGIN:VEVENT
+UID:close_japan_lower_house_dissolution_2026.japan_lower_house_dissolution_
+ 2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:取引終了：衆議院の年内解散
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：衆議院
+ の年内解散 https://wardlab.io/ja/board/#event.japan_lower_house_disso
+ lution_2026
+END:VEVENT
+END:VCALENDAR

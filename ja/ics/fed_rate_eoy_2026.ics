@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 2026年末のFF金利上限
+BEGIN:VEVENT
+UID:fomc_2026_12.fed_rate_eoy_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261209T190000Z
+DTEND:20261209T193000Z
+SUMMARY:FOMC会合 2026-12-08~2026-12-09（経済見通しSEP公表）
+DESCRIPTION:本サイトが登録した公式日程（予定）で、確認
+ 済みの公表ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：2026年
+ 末のFF金利上限 https://wardlab.io/ja/board/#event.fed_rate_eoy_2026
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:close_fed_rate_eoy_2026.fed_rate_eoy_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:取引終了：2026年末のFF金利上限
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：2026年
+ 末のFF金利上限 https://wardlab.io/ja/board/#event.fed_rate_eoy_2026
+END:VEVENT
+END:VCALENDAR

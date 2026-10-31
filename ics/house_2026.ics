@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 中期选举众议院控制权
+BEGIN:VEVENT
+UID:us_election_2026.house_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:美国中期选举投票日 2026-11-03
+DESCRIPTION:本站登记的官方日程（计划），不是本站核对过
+ 的实际公布。\n官方没有预告具体时刻，这里只写日期。
+ \n这是 2026-11-01 00:38 东京下载时的日程；之后改期，已下
+ 载的文件不会自动更新，请以官方日程页为准。\n相关事
+ 件：中期选举众议院控制权 https://wardlab.io/board/#event.house
+ _2026
+URL:https://www.usa.gov/midterm-elections
+END:VEVENT
+BEGIN:VEVENT
+UID:close_house_2026.house_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261104T045900Z
+DTEND:20261104T052900Z
+SUMMARY:平台交易截止：中期选举众议院控制权
+DESCRIPTION:平台规则里的交易截止时间，不等于观察时点。
+ \n这是 2026-11-01 00:38 东京下载时的日程；之后改期，已下
+ 载的文件不会自动更新，请以官方日程页为准。\n相关事
+ 件：中期选举众议院控制权 https://wardlab.io/board/#event.house
+ _2026
+END:VEVENT
+END:VCALENDAR

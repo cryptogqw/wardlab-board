@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · December BOJ rate decision
+BEGIN:VEVENT
+UID:close_boj_dec_2026.boj_dec_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261218T000000Z
+DTEND:20261218T003000Z
+SUMMARY:Market close: December BOJ rate decision
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-01 00:38 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: December BOJ rate decision https://
+ wardlab.io/en/board/#event.boj_dec_2026
+END:VEVENT
+BEGIN:VEVENT
+UID:boj_2026_12.boj_dec_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:BOJ monetary policy meeting 2026-12-17~2026-12-18
+DESCRIPTION:The official schedule on record (planned)\, not a release we ha
+ ve checked.\nThe exact time was not announced in advance\, so only the dat
+ e is given.\nThis is the schedule as of 2026-11-01 00:38 Tokyo time when d
+ ownloaded\; if it changes later\, the downloaded file will not update. Che
+ ck the official calendar page.\nRelated event: December BOJ rate decision 
+ https://wardlab.io/en/board/#event.boj_dec_2026
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+END:VEVENT
+END:VCALENDAR

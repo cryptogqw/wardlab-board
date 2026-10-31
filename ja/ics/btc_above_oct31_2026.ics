@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · BTCの10月31日正午の価格ラダー
+BEGIN:VEVENT
+UID:close_btc_above_oct31_2026.btc_above_oct31_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261031T160000Z
+DTEND:20261031T163000Z
+SUMMARY:取引終了：BTCの10月31日正午の価格ラダー
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：BTCの10
+ 月31日正午の価格ラダー https://wardlab.io/ja/board/#event.btc_ab
+ ove_oct31_2026
+END:VEVENT
+END:VCALENDAR

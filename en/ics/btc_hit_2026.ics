@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · BTC 2026 price-touch ladder
+BEGIN:VEVENT
+UID:close_btc_hit_2026.btc_hit_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T050000Z
+DTEND:20270101T053000Z
+SUMMARY:Market close: BTC 2026 price-touch ladder
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-01 00:38 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: BTC 2026 price-touch ladder https:/
+ /wardlab.io/en/board/#event.btc_hit_2026
+END:VEVENT
+END:VCALENDAR

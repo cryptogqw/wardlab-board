@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · BTC 2026 年触及价位阶梯
+BEGIN:VEVENT
+UID:close_btc_hit_2026.btc_hit_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T050000Z
+DTEND:20270101T053000Z
+SUMMARY:平台交易截止：BTC 2026 年触及价位阶梯
+DESCRIPTION:平台规则里的交易截止时间，不等于观察时点。
+ \n这是 2026-11-01 00:38 东京下载时的日程；之后改期，已下
+ 载的文件不会自动更新，请以官方日程页为准。\n相关事
+ 件：BTC 2026 年触及价位阶梯 https://wardlab.io/board/#event.btc_h
+ it_2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 米政府による中国の主要AIモデルの排
+ 除
+BEGIN:VEVENT
+UID:close_china_ai_model_removal_2026.china_ai_model_removal_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:取引終了：米政府による中国の主要AIモデルの排
+ 除
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：米政府
+ による中国の主要AIモデルの排除 https://wardlab.io/ja/board/#
+ event.china_ai_model_removal_2026
+END:VEVENT
+END:VCALENDAR

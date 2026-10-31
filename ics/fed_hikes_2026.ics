@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 2026 年加息次数
+BEGIN:VEVENT
+UID:close_fed_hikes_2026.fed_hikes_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261231T235900Z
+DTEND:20270101T002900Z
+SUMMARY:平台交易截止：2026 年加息次数
+DESCRIPTION:平台规则里的交易截止时间，不等于观察时点。
+ \n这是 2026-11-01 00:38 东京下载时的日程；之后改期，已下
+ 载的文件不会自动更新，请以官方日程页为准。\n相关事
+ 件：2026 年加息次数 https://wardlab.io/board/#event.fed_hikes_2026
+END:VEVENT
+END:VCALENDAR

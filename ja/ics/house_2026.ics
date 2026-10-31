@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 中間選挙後の米下院の支配権
+BEGIN:VEVENT
+UID:us_election_2026.house_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:米国中間選挙の投票日 2026-11-03
+DESCRIPTION:本サイトが登録した公式日程（予定）で、確認
+ 済みの公表ではありません。\n公表時刻は事前に示され
+ ていないため、日付のみ記載しています。\n東京時間 20
+ 26-11-01 00:38 のダウンロード時点の日程です。後で変更
+ されても、ダウンロード済みのファイルは更新されま
+ せん。公式日程ページで確認してください。\n関連イベ
+ ント：中間選挙後の米下院の支配権 https://wardlab.io/ja/boa
+ rd/#event.house_2026
+URL:https://www.usa.gov/midterm-elections
+END:VEVENT
+BEGIN:VEVENT
+UID:close_house_2026.house_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261104T045900Z
+DTEND:20261104T052900Z
+SUMMARY:取引終了：中間選挙後の米下院の支配権
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：中間選
+ 挙後の米下院の支配権 https://wardlab.io/ja/board/#event.house_20
+ 26
+END:VEVENT
+END:VCALENDAR

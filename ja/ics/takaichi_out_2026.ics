@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 高市早苗首相の年内退任
+BEGIN:VEVENT
+UID:close_takaichi_out_2026.takaichi_out_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:取引終了：高市早苗首相の年内退任
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-01 00:38 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：高市早
+ 苗首相の年内退任 https://wardlab.io/ja/board/#event.takaichi_out_2
+ 026
+END:VEVENT
+END:VCALENDAR

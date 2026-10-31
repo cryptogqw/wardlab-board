@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · Japan's lower house dissolved this year
+BEGIN:VEVENT
+UID:close_japan_lower_house_dissolution_2026.japan_lower_house_dissolution_
+ 2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:Market close: Japan's lower house dissolved this year
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-01 00:38 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: Japan's lower house dissolved this 
+ year https://wardlab.io/en/board/#event.japan_lower_house_dissolution_2026
+END:VEVENT
+END:VCALENDAR

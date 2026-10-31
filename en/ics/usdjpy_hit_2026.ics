@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · USD/JPY touch ladder this year
+BEGIN:VEVENT
+UID:close_usdjpy_hit_2026.usdjpy_hit_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261231T000000Z
+DTEND:20261231T003000Z
+SUMMARY:Market close: USD/JPY touch ladder this year
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-01 00:38 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: USD/JPY touch ladder this year http
+ s://wardlab.io/en/board/#event.usdjpy_hit_2026
+END:VEVENT
+END:VCALENDAR

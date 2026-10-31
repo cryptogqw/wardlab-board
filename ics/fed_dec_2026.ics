@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 12 月 FOMC 政策幅度
+BEGIN:VEVENT
+UID:fomc_2026_12.fed_dec_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261209T190000Z
+DTEND:20261209T193000Z
+SUMMARY:FOMC 会议 2026-12-08~2026-12-09（含经济预测摘要 SEP）
+DESCRIPTION:本站登记的官方日程（计划），不是本站核对过
+ 的实际公布。\n这是 2026-11-01 00:38 东京下载时的日程；之
+ 后改期，已下载的文件不会自动更新，请以官方日程页
+ 为准。\n相关事件：12 月 FOMC 政策幅度 https://wardlab.io/boar
+ d/#event.fed_dec_2026
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:close_fed_dec_2026.fed_dec_2026@wardlab
+DTSTAMP:20261031T153814Z
+DTSTART:20261209T235900Z
+DTEND:20261210T002900Z
+SUMMARY:平台交易截止：12 月 FOMC 政策幅度
+DESCRIPTION:平台规则里的交易截止时间，不等于观察时点。
+ \n这是 2026-11-01 00:38 东京下载时的日程；之后改期，已下
+ 载的文件不会自动更新，请以官方日程页为准。\n相关事
+ 件：12 月 FOMC 政策幅度 https://wardlab.io/board/#event.fed_dec_202
+ 6
+END:VEVENT
+END:VCALENDAR
