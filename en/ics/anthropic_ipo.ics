@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · Anthropic IPO timing
+BEGIN:VEVENT
+UID:close_anthropic_ipo.anthropic_ipo@wardlab
+DTSTAMP:20261114T184421Z
+DTSTART:20261121T045900Z
+DTEND:20261121T052900Z
+SUMMARY:Market close: Anthropic IPO timing
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-15 03:44 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: Anthropic IPO timing https://wardla
+ b.io/en/board/#event.anthropic_ipo
+END:VEVENT
+END:VCALENDAR

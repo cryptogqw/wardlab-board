@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · 金の年内到達ラダー
+BEGIN:VEVENT
+UID:close_gold_hit_2026.gold_hit_2026@wardlab
+DTSTAMP:20261114T184421Z
+DTSTART:20261231T000000Z
+DTEND:20261231T003000Z
+SUMMARY:取引終了：金の年内到達ラダー
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-15 03:44 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：金の年
+ 内到達ラダー https://wardlab.io/ja/board/#event.gold_hit_2026
+END:VEVENT
+END:VCALENDAR

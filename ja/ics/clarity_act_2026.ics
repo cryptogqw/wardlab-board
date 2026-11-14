@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · CLARITY法案の年内署名
+BEGIN:VEVENT
+UID:close_clarity_act_2026.clarity_act_2026@wardlab
+DTSTAMP:20261114T184421Z
+DTSTART:20270101T050000Z
+DTEND:20270101T053000Z
+SUMMARY:取引終了：CLARITY法案の年内署名
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-15 03:44 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：CLARITY
+ 法案の年内署名 https://wardlab.io/ja/board/#event.clarity_act_2026
+END:VEVENT
+END:VCALENDAR

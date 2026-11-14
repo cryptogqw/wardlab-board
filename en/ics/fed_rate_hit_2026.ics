@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · Fed funds rate touch ladder before 2027
+BEGIN:VEVENT
+UID:close_fed_rate_hit_2026.fed_rate_hit_2026@wardlab
+DTSTAMP:20261114T184421Z
+DTSTART:20261231T000000Z
+DTEND:20261231T003000Z
+SUMMARY:Market close: Fed funds rate touch ladder before 2027
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-15 03:44 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: Fed funds rate touch ladder before 
+ 2027 https://wardlab.io/en/board/#event.fed_rate_hit_2026
+END:VEVENT
+END:VCALENDAR

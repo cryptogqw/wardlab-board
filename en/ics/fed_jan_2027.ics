@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · January 2027 FOMC rate decision
+BEGIN:VEVENT
+UID:close_fed_jan_2027.fed_jan_2027@wardlab
+DTSTAMP:20261114T184421Z
+DTSTART:20270128T045900Z
+DTEND:20270128T052900Z
+SUMMARY:Market close: January 2027 FOMC rate decision
+DESCRIPTION:The trading close in the venue's rules\; not the observation ti
+ me.\nThis is the schedule as of 2026-11-15 03:44 Tokyo time when downloade
+ d\; if it changes later\, the downloaded file will not update. Check the o
+ fficial calendar page.\nRelated event: January 2027 FOMC rate decision htt
+ ps://wardlab.io/en/board/#event.fed_jan_2027
+END:VEVENT
+END:VCALENDAR
