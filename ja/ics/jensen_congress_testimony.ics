@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wardlab//event calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:wardlab · ジェンスン・フアン氏の米議会での公
+ 開証言
+BEGIN:VEVENT
+UID:close_jensen_congress_testimony.jensen_congress_testimony@wardlab
+DTSTAMP:20261121T135504Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:取引終了：ジェンスン・フアン氏の米議会での公
+ 開証言
+DESCRIPTION:プラットフォームのルール上の取引終了時刻で
+ 、観測時点ではありません。\n東京時間 2026-11-21 22:55 の
+ ダウンロード時点の日程です。後で変更されても、ダ
+ ウンロード済みのファイルは更新されません。公式日
+ 程ページで確認してください。\n関連イベント：ジェン
+ スン・フアン氏の米議会での公開証言 https://wardlab.io/ja/
+ board/#event.jensen_congress_testimony
+END:VEVENT
+END:VCALENDAR
